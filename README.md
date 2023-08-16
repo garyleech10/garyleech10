@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @garyleech10
-- 👀 I’m interested in Chat GPT & AI.
-- 🌱 I’m currently learning Chat GPT, Code Interpreter and various AI Tools.
+- 👀 I’m interested in Chat GPT, Code Interpreter and various AI Tools.
+- 🌱 I’m currently learning Zapier and various AI Tools.
 - 💞️ I’m looking to collaborate on nothing at the moment.
 - 📫 How to reach me (will update this at some point in the future).
 
